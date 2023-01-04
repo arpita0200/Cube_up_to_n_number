@@ -1,6 +1,6 @@
 #Program to find the Cube of elements up to a given number in python.
 
-def cube(n):
+def cube(n): #
     cubes={}
     for i in range(1,n+1):
         cubes[i]=i**3
