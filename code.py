@@ -1,4 +1,5 @@
 #Program to find the Cube of elements up to a given number in python.
+# here we use functions to write our code
 
 def cube(n):
     cubes={}
