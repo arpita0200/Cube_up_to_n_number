@@ -1,4 +1,4 @@
-#Program to find the Cube of elements up to a given Number in python:-
+#Program to find the Cube of elements up to a given number in python.
 
 def cube(n):
     cubes={}
